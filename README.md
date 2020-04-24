@@ -12,10 +12,10 @@
 * A little video game
 
 ---
-### UNO project
+* ### UNO project
 
-### Website project
+* ### Website project
 
-### ACAYEM's website
+* ### ACAYEM's website
 
-### Video Game (Unnammed for the moment)
+* ### Video Game (Unnammed for the moment)
