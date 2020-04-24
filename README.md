@@ -1,8 +1,8 @@
 # My Projects <br/>
 ## Here's all my personal or professional projects (Computer Science).**
 ---
-### Current projects[^project] :
-[^project]: When checked --> project finished (released).  
+### Current projects<sup id="a1">[1](#f1)</sup> :
+***<span id="f1">When checked --> project finished (released).</span>***  
 **Professional projects :**
 - [ ] [UNO project](https://github.com/Ldm01/Projects/tree/master/Uno)
 - [ ] Website project
