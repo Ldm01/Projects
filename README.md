@@ -5,7 +5,7 @@
 
 **Professional projects :**
 * [UNO project](https://github.com/Ldm01/Projects/tree/master/Uno)
-* [Website project]((https://github.com/Ldm01/Projects/tree/master/Website_PlannedTrip)
+* [Website project](https://github.com/Ldm01/Projects/tree/master/Website_PlannedTrip)
 
 **Personal projects :**
 * ACAYEM's website
