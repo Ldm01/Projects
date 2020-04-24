@@ -2,7 +2,7 @@
 ## Here's all my personal or professional projects (Computer Science).**
 ---
 ### Current projects[^project] :
-[^project]: *When checked --> project finished (released)*  
+[^project]: When checked --> project finished (released).  
 **Professional projects :**
 - [ ] [UNO project](https://github.com/Ldm01/Projects/tree/master/Uno)
 - [ ] Website project
