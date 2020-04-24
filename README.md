@@ -1,7 +1,8 @@
-# My Projects <br> Here's all my personal or professional projects (Computer Science).
+# My Projects <br/>
+**Here's all my personal or professional projects (Computer Science).**
 ---
-### Current projects :<br/>   
-*When checked --> project finished (released)*  
+### Current projects[^1] :<br/>   
+[^1] : *When checked --> project finished (released)*  
 **Professional projects :**
 - [ ] [UNO project](https://github.com/Ldm01/Projects/tree/master/Uno)
 - [ ] Website project
