@@ -1,5 +1,5 @@
 # My Projects <br/>
-## Here's all my personal or professional projects (Computer Science).**
+## Here's all my personal or professional projects (Computer Science).
 ---
 ### Current projects : 
 
